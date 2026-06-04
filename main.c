@@ -1,5 +1,5 @@
 #include <unistd.h>
 int main(void) {
-	// TODO: iniciar variables
+	// Variables inicializadas por tu compañero
 	return (0);
 }
